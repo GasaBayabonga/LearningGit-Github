@@ -1,0 +1,23 @@
+[33mcommit 3e9643e5ed152a66eead897d2eeb9ed40b5833e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Author: Bayabonga <eduvos8593899@vossie.net>
+Date:   Sun Apr 19 16:17:38 2026 +0200
+
+    this to see if there is a different beteewn main branch and the development branch
+
+[33mcommit cc7552af8f2e0807079b506f801049a30b7bc54d[m[33m ([m[1;32mmain[m[33m, [m[1;32mdevrlopment[m[33m)[m
+Author: Bayabonga <eduvos8593899@vossie.net>
+Date:   Sun Apr 19 12:52:51 2026 +0200
+
+    I have made some change to the files
+
+[33mcommit 9ab02cae544251238966e78f95381fa980d9dde0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bayabonga Gasa <Gasabayabonga@gmail.com>
+Date:   Sun Apr 19 12:23:48 2026 +0200
+
+    Add two.txt with initial content 'two'
+
+[33mcommit fd17324d367021089609f7e9239628a16c86fceb[m
+Author: Bayabonga Gasa <Gasabayabonga@gmail.com>
+Date:   Sun Apr 19 12:22:52 2026 +0200
+
+    Add one.txt with initial content 'one'
