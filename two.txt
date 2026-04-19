@@ -1,1 +1,2 @@
-two
+I don't understand this part of Git.
+So what you can not have two things pushed at the same 15:26:01
